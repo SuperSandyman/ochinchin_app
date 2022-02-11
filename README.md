@@ -6,3 +6,5 @@ This is a traditional Japanese culture.（Deepl Translation）
 # どんなアプリ？
 何を入力しても「おちん○ん」としか表示されないアプリです。使い道はありません。
 これは日本の伝統的な文化です。（嘘）
+
+[URL](http://ochinchin-sandy.herokuapp.com)
